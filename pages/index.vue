@@ -1,9 +1,15 @@
 <template>
-  <div> Hello World! </div>
+  <homepage />
 </template>
 
 <script>
+import Homepage from '@/components/Homepage/Homepage.vue'
+
 export default {
-  name: 'Index'
+  name: 'Index',
+
+  components:{
+    Homepage
+  }
 }
 </script>
