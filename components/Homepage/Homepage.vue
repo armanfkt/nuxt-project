@@ -6,9 +6,7 @@
             </v-col>
             
             <v-col cols="12" sm="4" md="3">
-                <div class="homepage-box">
-                    Hello World!
-                </div>
+                <nuxt-link to="contact-us.vue">contact-us</nuxt-link>
             </v-col>
             
             <v-col cols="12" sm="6" md="3">

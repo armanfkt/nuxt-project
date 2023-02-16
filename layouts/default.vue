@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-app-bar color="red" max-height="64px"> Header </v-app-bar>
+    <v-app-bar color="ss" max-height="64px"> Header </v-app-bar>
 
     <v-main>
       <v-container>
