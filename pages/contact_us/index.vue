@@ -6,7 +6,7 @@ import Contact_us from '../../components/contact_us/contact_us.vue';
 </template>
 
 <script>
- import Contact_us  from "comments/contact_us/contact_us.vue"
+ import Contact_us  from "components/contact_us/contact_us.vue"
 
  export default{
     name:"contact",
