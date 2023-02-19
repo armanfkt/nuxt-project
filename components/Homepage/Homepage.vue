@@ -6,7 +6,7 @@
             </v-col>
             
             <v-col cols="12" sm="4" md="3">
-                <nuxt-link to="contact_us.vue">contact-us</nuxt-link>
+                <nuxt-link to="contact_gus.vue">contact-us</nuxt-link>
             </v-col>
             
             <v-col cols="12" sm="6" md="3">
