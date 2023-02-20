@@ -2,7 +2,7 @@
     <v-container>
         <v-row>
             <v-col>
-             <nuxt-link to="/homepage">Homepage</nuxt-link>
+             <nuxt-link to="/">Homepage</nuxt-link>
             </v-col>
             
         </v-row>

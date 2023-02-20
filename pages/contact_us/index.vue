@@ -3,10 +3,10 @@
 </template>
 
 <script>
- import contact_us  from "components/contact_us/contact_us.vue"
+ import contact_us  from "@/components/contact_us/contact_us.vue"
 
  export default{
-    name:"contact",
+    name:"Index",
 
     components:{
         contact_us

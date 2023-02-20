@@ -20,6 +20,14 @@
                     Hello World!
                 </div>
             </v-col>
+
+            <v-col>
+                <nuxt-link to="/blogs">blogs</nuxt-link>
+            </v-col>
+
+            <v-col>
+                <nuxt-link to="profiles">profiles</nuxt-link>
+            </v-col>
         </v-row>
     </v-container>
 </template>
