@@ -1,16 +1,15 @@
 <template>
-    <div>
-        <homepage/>
-    </div>
+    <homepage/>
 </template>
 
 <script>
-import Homepage from '../components/Homepage/Homepage.vue';
+import Homepage from '@/components/Homepage/Homepage.vue';  
     export default{ 
         name:"Index",
         components:{
-            Homepage
-        }
-    }
+    Homepage,
+    
+}
+}
     
 </script>

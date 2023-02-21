@@ -28,6 +28,9 @@
             <v-col>
                 <nuxt-link to="profiles">profiles</nuxt-link>
             </v-col>
+            <v-col>
+                <nuxt-link to="about_us">about_us</nuxt-link>
+            </v-col>
         </v-row>
     </v-container>
 </template>
