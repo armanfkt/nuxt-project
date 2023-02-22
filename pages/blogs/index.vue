@@ -1,11 +1,14 @@
 <template>
-    <div>
-        blogs
-    </div>
+    <blogs/>
 </template>
 
 <script>
+import blogs from '@/components/blogs/blogs.vue';
 export default {
-    name:"index"
+    name:"index",
+    
+    components:{
+        blogs
+    }
 }
 </script>

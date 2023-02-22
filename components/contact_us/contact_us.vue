@@ -4,6 +4,10 @@
             <v-col>
              <nuxt-link to="/">Homepage</nuxt-link>
             </v-col>
+
+            <v-col>
+                contact_us
+            </v-col>
             
         </v-row>
     </v-container>
