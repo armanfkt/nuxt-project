@@ -8,12 +8,8 @@
  export default{
     name:"Index",
 
-
-       components:{
+        components:{
         contact_us
        }
-
-    
-    
-    }
+ }
 </script>
