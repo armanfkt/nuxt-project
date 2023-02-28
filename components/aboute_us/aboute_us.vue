@@ -8,6 +8,7 @@
             <nuxt-link to="/">back to home</nuxt-link>
         </v-col>
     </v-row>
+    
 </v-container>
 
 </template>
