@@ -2,5 +2,9 @@
     background-color: aqua;
     &-box{
         background-color: rgb(195, 72, 92);
+
+        &-text{
+            color: yellow;
+        }
     }
 }

@@ -16,6 +16,6 @@
 
 <script>
 export default{
-    name:"contact_us"
+    name:"Contact_us"
 }
 </script>

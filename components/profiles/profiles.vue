@@ -20,11 +20,21 @@
                     <v-btn style="margin-left:150px ;color: blue;background-color: aquamarine;">
                      edits
                     </v-btn>
-                    <v-btn style="margin-left:150px ;color: blue;background-color: aquamarine;">
+                    <v-btn  style="margin-left:150px ;color: blue;background-color: aquamarine;">
                      numbers
                     </v-btn>
                 </v-toolbar>
             </v-col>
+            <v-sheet style="background-color: aqua;" :height="250" :width="1200"> <v-allert text="hello world!"></v-allert></v-sheet>     
+            <v-col>
+            </v-col>
         </v-row>
     </v-contaner>
 </template>
+
+<script>
+export default{
+    name:"Profiles"
+}
+
+</script>

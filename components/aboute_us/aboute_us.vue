@@ -16,7 +16,7 @@
 <script>
 
 export default{
-    name:"Index",
+    name:"Aboute_us",
     
     
 }

@@ -17,7 +17,9 @@
             
             <v-col cols="12" sm="6" md="3">
                 <div class="homepage-box">
-                    Hello World!
+                    <span class="homepage-box-text">
+                        Hello World!
+                    </span>
                 </div>
             </v-col>
 
