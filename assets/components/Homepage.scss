@@ -1,10 +1,25 @@
 .homepage{
-    background-color: aqua;
+    background-color:crimson;
+    border-radius: 20px;
+    height: 96px;
     &-box{
-        background-color: rgb(195, 72, 92);
+
+        background-color: rgb(100, 120, 200);
 
         &-text{
             color: yellow;
+            &-icon{
+                background-color: darkorange;
+                border-radius: 20px;
+                &-2{
+                    background-color: darkred;
+                    border-radius: 20px;
+
+                }
+            }
         }
     }
+}
+#div1{
+    margin-top: 100px;
 }

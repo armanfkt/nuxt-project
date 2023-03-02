@@ -11,5 +11,5 @@ import Homepage from '@/components/Homepage/Homepage.vue';
     
 }
 }
-    
+
 </script>
